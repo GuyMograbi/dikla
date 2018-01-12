@@ -1,0 +1,7 @@
+{
+  "name": "dikla",
+  "version": "0.0.0",
+  "dependencies": {
+    "watchjs": "0.0.0"
+  }
+}
