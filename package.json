@@ -2,6 +2,9 @@
   "name": "dikla",
   "version": "0.0.0",
   "dependencies": {
+    "lodash": "^4.17.4",
+    "nodemon": "^1.14.11",
+    "semistandard": "^12.0.0",
     "watchjs": "0.0.0"
   }
 }
